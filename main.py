@@ -1,3 +1,10 @@
+from modularization import hitung_segitiga, hitung_harga_diskon
+
+print('Main', hitung_segitiga(10, 3))
+print('Main', hitung_harga_diskon(3000, 0.3))
+
+exit(0)
+
 print("Hello World!")
 
 # variable type
